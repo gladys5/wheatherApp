@@ -133,7 +133,7 @@
   font-size: 30px;
   font-weight: 900;
 }
-.location h3 i {
+.location  h3    i  .fa-street-view {
   margin-right: 10px;
   animation: locationicon 2s infinite;
 }
